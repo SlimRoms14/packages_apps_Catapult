@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name -->
+    <string name="catapult_app_name" translatable="false">Catapult</string>
+</resources>
